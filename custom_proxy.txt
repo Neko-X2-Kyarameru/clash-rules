@@ -1,4 +1,5 @@
-  - 'global.market.xiaomi.com'
+payload:
+- 'global.market.xiaomi.com'
   - 'thm.market.intl.xiaomi.com'
   - 'weatherapi.intl.xiaomi.com'
   - 'update.intl.miui.com'
